@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<div id="header" aling"center">
+<img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" with="200" />
 <!--
 **dninani/dninani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
